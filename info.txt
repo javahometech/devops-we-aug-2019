@@ -1,7 +1,10 @@
 This is to add my info
+Apples are good for health
 This is added by developer-1
 This is added by developer-2
+Dont eat junk food
 # This is my comment
 Adding this line to demo branches
 Git is comprehensive toole (developer-1)
+AWS and DevOps have good opportunities
 SVN is deprecated tool (developer-2)

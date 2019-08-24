@@ -3,3 +3,4 @@ This is added by developer-1
 This is added by developer-2
 # This is my comment
 Adding this line to demo branches
+SVN is deprecated tool (developer-2)

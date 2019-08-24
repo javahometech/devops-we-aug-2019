@@ -1,14 +1,21 @@
 This is to add my info
-Apples are good for health
+<<<<<<< HEAD
 Docker is trending
 This is added by developer-1
 This is added by developer-2
 Kubernetes is awesome
+# This is my comment
+Adding this line to demo branches
+Git is comprehensive toole (developer-1)
+DevOps changing the way we deploy applications
+=======
+Apples are good for health
+This is added by developer-1
+This is added by developer-2
 Dont eat junk food
 # This is my comment
 Adding this line to demo branches
 Git is comprehensive toole (developer-1)
 AWS and DevOps have good opportunities
-DevOps changing the way we deploy applications
+>>>>>>> d0b0e2a413d993a6b80a04b7a3270832a98d7fe6
 SVN is deprecated tool (developer-2)
-Jenkins is opensource

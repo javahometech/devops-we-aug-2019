@@ -23,7 +23,7 @@ Every new implementation/bugfix must be done in a separate branch
   
   ```
 - Branch is usually created from current branch 
-- Breanches are light weight in git
+- Branches are light weight in git
 
 - Switching to task-1 branch
 ```
@@ -41,9 +41,9 @@ Typically you cannot merge changes directly to main branch rather it has to be r
 
 
 
-#### Fore deleting a branch
+#### Force deleting a branch
 
-Sometimes you comeplete a task and client say we do not need those changes in such scenarios we have to force delete branches
+Sometimes you complete a task and client say we do not need those changes in such scenarios we have to force delete branches
 
 ```
    git branch -D <branch-name>

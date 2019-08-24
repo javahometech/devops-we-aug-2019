@@ -11,3 +11,4 @@ Git is comprehensive toole (developer-1)
 AWS and DevOps have good opportunities
 DevOps changing the way we deploy applications
 SVN is deprecated tool (developer-2)
+Ansible is easy to learn and use

@@ -4,3 +4,4 @@ This is added by developer-2
 # This is my comment
 Adding this line to demo branches
 Git is comprehensive toole (developer-1)
+SVN is deprecated tool (developer-2)
